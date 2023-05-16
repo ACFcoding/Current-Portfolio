@@ -1,0 +1,43 @@
+body {
+    
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: right;
+    padding: 2%;
+    background-color: #3795ee;
+    color: #0f0f0f;
+}
+
+.directory {
+    display: column;
+    text-decoration: underline;
+  }
+
+  .photo {
+    padding: 5%;
+    padding-left: 10%;
+  }
+
+  p {
+
+  }
+
+  .work {
+    font-size: 25px;
+    font-weight: 600;
+  }
+
+  footer {
+    background-color: #0f0f0f;
+    color: aliceblue;
+
+  }
+  .ci {
+    font-size: 25px;
+    font-weight: 600;
+  }
+  
+  @media screen and (max-width: 768px)
